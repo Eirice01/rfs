@@ -1,0 +1,515 @@
+{
+  "code": 200,
+  "data": {
+    "definedLabel": [
+      {
+        "labels": [],
+        "nodeId": "D5025"
+      },
+      {
+        "labels": [],
+        "nodeId": "54789644123654726263"
+      },
+      {
+        "labels": [],
+        "nodeId": "54789644123654726262"
+      },
+      {
+        "labels": [],
+        "nodeId": "15619945555"
+      },
+      {
+        "labels": [],
+        "nodeId": "460012989044692"
+      },
+      {
+        "labels": [],
+        "nodeId": "610502199901021124"
+      },
+      {
+        "labels": [],
+        "nodeId": "610502199901021126"
+      },
+      {
+        "labels": [],
+        "nodeId": "460012989044683"
+      },
+      {
+        "labels": [],
+        "nodeId": "54789644123654781523"
+      },
+      {
+        "labels": [],
+        "nodeId": "610502199901021127"
+      },
+      {
+        "labels": [],
+        "nodeId": "15319944393"
+      },
+      {
+        "labels": [],
+        "nodeId": "460012989044691"
+      }
+    ],
+    "graphVo": {
+      "cCoffCount": 0.0,
+      "edges": [
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs802532d884c846d454134",
+            "name": "号机关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "10072317785856",
+            "startT": 0,
+            "target": "8424",
+            "type": "eme",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs80253abe75b841368d0b9",
+            "name": "机主关系",
+            "properties": {
+              "st": "127"
+            },
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "12344",
+            "startT": 0,
+            "target": "14222077862656",
+            "type": "emo",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs8025368536b7158e84867",
+            "name": "乘火车关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "4136",
+            "startT": 0,
+            "target": "8376",
+            "type": "cshcjgxj",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs802535f76615b8aafcc36",
+            "name": "号机关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "10072317785856",
+            "startT": 0,
+            "target": "4336",
+            "type": "eme",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs802531ab54dd5398032db",
+            "name": "机主关系",
+            "properties": {
+              "st": "127"
+            },
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "12344",
+            "startT": 0,
+            "target": "10072317785856",
+            "type": "emo",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs80253cf07551e7900e716",
+            "name": "号卡关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "14222077862656",
+            "startT": 0,
+            "target": "4288",
+            "type": "ems",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs80253eacc59ed286e674c",
+            "name": "号机关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "14222077862656",
+            "startT": 0,
+            "target": "81924312",
+            "type": "eme",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs8025319c56a391b318462",
+            "name": "乘火车关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "12344",
+            "startT": 0,
+            "target": "8376",
+            "type": "cshcjgxj",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs80253163d35047af575a4",
+            "name": "乘火车关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "16544",
+            "startT": 0,
+            "target": "8376",
+            "type": "cshcjgxj",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs8025335ca12a5eaa76dcb",
+            "name": "号卡关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "10072317785856",
+            "startT": 0,
+            "target": "12512",
+            "type": "ems",
+            "weight": 1
+          }
+        },
+        {
+          "data": {
+            "endT": 0,
+            "id": "rfs80253428916a7456f77eb",
+            "name": "号卡关系",
+            "properties": {},
+            "putAsh": false,
+            "shortestFlag": false,
+            "source": "10072317785856",
+            "startT": 0,
+            "target": "12520",
+            "type": "ems",
+            "weight": 1
+          }
+        }
+      ],
+      "groups": [],
+      "maxEdgeWeight": 0,
+      "maxKshell": 0,
+      "maxNodeWeight": 0,
+      "minEdgeWeight": 0,
+      "minKshell": 0,
+      "minNodeWeight": 0,
+      "nodes": [
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "12344",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "610502199901021124",
+            "level":6,
+            "properties": {
+              "名称": "苟少波",
+              "地址": "陕西西安",
+              "类型": "49"
+            },
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "vic",
+            "weight": 0.0
+          }
+        },
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "8376",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "D5025",
+            "level":5,
+            "properties": {
+              "发车时间": "19:00:00"
+            },
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "hcjcjcdx",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "14222077862656",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {
+              "00000": "15619945555",
+              "00003": "男",
+              "00006": "西安市",
+              "00007": "新城行政区",
+              "00008": "雁塔行政区",
+              "00032": "是",
+              "00033": "是",
+              "00034": "西安市"
+            },
+            "mark": 0,
+            "name": "15619945555",
+            "level":5,
+            "properties": {},
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "vm",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "10072317785856",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {
+              "00000": "15319944393",
+              "00002": "1",
+              "00003": "女",
+              "00007": "长安行政区行政区行政区",
+              "00008": "长安韦曲",
+              "00017": "涉爆涉毒涉赌",
+              "00032": "是",
+              "00033": "是",
+              "00034": "西安市"
+            },
+            "mark": 0,
+            "name": "15319944393",
+            "level":5,
+            "properties": {},
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "vm",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "12512",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "460012989044691",
+            "properties": {},
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "vs",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "8424",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "54789644123654726262",
+            "properties": {},
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "ve",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "12520",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "460012989044683",
+            "properties": {},
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "vs",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "4336",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "54789644123654781523",
+            "properties": {},
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "ve",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "4136",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "610502199901021126",
+            "properties": {
+              "名称": "周娜",
+              "地址": "陕西西安",
+              "类型": "49"
+            },
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "vic",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "16544",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "610502199901021127",
+            "properties": {
+              "名称": "岳航普",
+              "地址": "陕西西安",
+              "类型": "49"
+            },
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "vic",
+            "weight": 0.0
+          }
+        },
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "81924312",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "54789644123654726263",
+            "properties": {},
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "ve",
+            "weight": 0.0
+          }
+        },
+
+
+        {
+          "data": {
+            "entityLabels": {},
+            "group": 0,
+            "id": "4288",
+            "important": false,
+            "isInput": 1,
+            "kshell": 0,
+            "labels": {},
+            "mark": 0,
+            "name": "460012989044692",
+            "properties": {},
+            "putAsh": false,
+            "ratios": 0.0,
+            "relationTime": 0,
+            "type": "vs",
+            "weight": 0.0
+          }
+        }
+      ]
+    }
+  },
+  "msg": "success"
+}
